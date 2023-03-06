@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Cornelius Emase, a Software Engineer intern at @RadicalX.keen interest in data-related careers also.
+I'm Cornelius Emase, a Software Engineer intern at @RadicalX.
 I have keen interest in data-related careers also. 
 
 🔭 I'm currently working on developing and testing software applications at Radical X, where I've gained valuable experience in [insert programming languages, frameworks, or tools you've worked with]. I'm also interested in exploring data science, machine learning, and data engineering.
