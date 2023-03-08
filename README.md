@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Cornelius Emase, a Software Engineer intern at @RadicalX.
+I'm Cornelius Emase, a Software Engineer
 
 I'm a Technical Write, you can check out my articles on Medium at https://medium.com/@corneliuslochipi
 
